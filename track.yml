@@ -1,0 +1,20 @@
+slug: bashproject
+id: syvwurinhb45
+title: bashProject
+teaser: Use a virtual machine (VM) as a sandbox host
+description: |-
+  This template shows you how to use a Virtual Machine (VM). VMs can be used when you need more compute and memory or for running Docker containers.
+
+  **This track demonstrates how to:**
+    - Provision virtual machine sandbox host using a predefined Compute Engine image
+    - Use the Docker daemon on the sandbox host to build and run container images
+    - Add check and solve scripts
+    - Add simple assets (a Dockerfile) to the sandbox host
+icon: https://cdn.instruqt.com/assets/templates/docker.png
+tags: []
+owner: instruqt-support
+developers:
+- dhruv@instruqt.com
+- dhruv.arora@xebia.com
+- jacob@instruqt.com
+checksum: "2206530397493821905"
